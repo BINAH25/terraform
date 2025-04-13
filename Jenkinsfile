@@ -5,7 +5,7 @@ pipeline {
 
     stage('Fetch code') {
       steps {
-        git branch: 'main', url: 'https://github.com/BINAH25/react-crud-php-api-mysql.git'
+        git branch: 'main', url: 'https://github.com/BINAH25/terraform.git'
       }
     }
 
