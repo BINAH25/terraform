@@ -34,24 +34,7 @@ This project uses **Terraform** to provision and manage key AWS resources, inclu
 
 ## 📁 Project Structure
 
-terraform-modules/
-├── modules/
-│   ├── vpc/
-│   ├── ec2/
-│   ├── security-groups/
-│   └── eks/
-├── scripts/
-│   └── docker_install.sh
-├── main.tf
-├── variables.tf
-├── outputs.tf
-├── backend,tf
-├── provider.tf
-├── terraform.tf
-├── terraform.tfvars
-├── Jenkinsfile
-├── ReadMe.md
-
+![alt text](image.png)
 
 ---
 
